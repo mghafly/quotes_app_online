@@ -1,2 +1,3 @@
-https://example.com,https://picsum.photos/400/100
+یhttps://example.com,https://picsum.photos/400/100
 https://example2.com,https://picsum.photos/401/100
+https://soft98.ir/
